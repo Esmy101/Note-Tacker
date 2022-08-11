@@ -96,6 +96,6 @@ app.get(
   ) => res.sendFile(path.join(__dirname, "public/index.html"))
 );
 
-app.listen(PORT, () =>
+app.listen(process.env.PORT || PORT, () =>
   console.log(`Example app listening at http://localhost:${PORT}`)
 );
