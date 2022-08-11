@@ -15,7 +15,7 @@ _To delete notes, click on the trashcan icon that is next to the note you would 
 
 ![image](./images/Screenshot%202022-08-11%20143846.png)
 
-Link to website: https://notetaker69.herokuapp.com/notes
+Link to website: https://notetaker69.herokuapp.com
 
 ## Questions
 ---
